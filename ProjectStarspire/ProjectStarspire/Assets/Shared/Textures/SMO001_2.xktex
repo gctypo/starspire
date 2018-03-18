@@ -1,0 +1,8 @@
+!Texture
+Id: ca9d1eef-0f84-4f3e-9c80-fc3e04aa0d77
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../Resources/Textures/Smoke02/SMO001.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+IsStreamable: false

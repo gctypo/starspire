@@ -1,0 +1,6 @@
+!Texture
+Id: e823e17e-d0d0-4112-adad-2cc57086f5c2
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/Textures/iron_blend/rust/iron_rust_nml.png
+Type: !NormalMapTextureType {}

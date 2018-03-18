@@ -1,0 +1,7 @@
+!Texture
+Id: e873e1bd-30f0-483a-9d26-cb219cd9ead4
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/Textures/gold/gold_spc.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

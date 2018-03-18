@@ -1,0 +1,7 @@
+!Texture
+Id: 907d6ce2-6cac-410f-97a4-877e546e7d5a
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/Textures/iron_blend/paint/iron_paint_gls.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

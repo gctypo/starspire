@@ -1,0 +1,40 @@
+!Package
+Id: eb1339cd-5d80-4c20-8f28-8a5140eaa893
+SerializedVersion: {Assets: 0.0.4}
+Meta:
+    Name: ProjectStarspire
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: ProjectStarspire
+    Dependencies:
+        -   Name: Xenko
+            Version: 2.1.2.1
+            RootAssets: []
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+            -   Path: ProjectStarspire.Game/Effects
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 988b24d2-f946-493c-801a-431e37e34885
+                Location: ProjectStarspire.Game/ProjectStarspire.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 41f2fd97-389b-404e-bfae-446378e84b88
+                Location: ProjectStarspire.Windows/ProjectStarspire.Windows.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets: []

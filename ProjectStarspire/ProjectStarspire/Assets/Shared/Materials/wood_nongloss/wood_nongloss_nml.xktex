@@ -1,0 +1,6 @@
+!Texture
+Id: 39349667-9a94-473a-b4c5-1068abfdec25
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../Resources/Textures/wood_nongloss/wood_nongloss_nml.png
+Type: !NormalMapTextureType {}
