@@ -1,0 +1,14 @@
+!Model
+Id: 082b148d-8cf5-4439-8ad0-e6b1b67be04a
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../concept/PlayerShip1.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    7281cf26eaab8851311aadfeaa4599ad:
+        Name: ShipMat
+        MaterialInstance:
+            Material: null
+~SourceHashes:
+    a28f5467c90a730e9494d0cc9a52be01~../../../../concept/PlayerShip1.fbx: aa8ba5ae8f22424c04f859d8f91acf19
